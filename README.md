@@ -12,7 +12,7 @@
 2. http://www.haoweichi.com/	
    - 中文，请勿频繁生成，否则需要VIP
 3. https://www.fakeaddressgenerator.com	
-   - 英文
+   - 英文，含有多个国家，包括阿根廷
 4. https://homepage.net/name_generator/	
    - 英文
 5. https://namefake.com/	
